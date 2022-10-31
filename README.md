@@ -67,8 +67,8 @@
 Распределение ролей также показано в Google-таблице:
 [Кондуит ИДМ-22](https://docs.google.com/spreadsheets/d/1ypxgDUpNsaAK5PH90dTfGKdtDnWaeEDWfupEbDokN6A/edit?usp=sharing)
 
-### Landing Page: 
-[Ссылка на лендинг с самой игрой, пока что бета-версия!](https://Allyxan.github.io/landing/)
+### Попробовать игру: 
+[Work-in-progress, beta version of the game!](https://Allyxan.github.io/landing/)
 
 ## ✅ Лабораторная работа 3
 
