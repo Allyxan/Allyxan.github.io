@@ -67,7 +67,11 @@
 Распределение ролей также показано в Google-таблице:
 [Кондуит ИДМ-22](https://docs.google.com/spreadsheets/d/1ypxgDUpNsaAK5PH90dTfGKdtDnWaeEDWfupEbDokN6A/edit?usp=sharing)
 
-### Попробовать игру: 
+### Попробовать игру:
+* P - запуск игры
+* Space - стрельба
+* W, A, S, D - перемещение
+* Танк и снаряды можно перемещать мышкой
 [Work-in-progress, beta version of the game!](https://Allyxan.github.io/landing/)
 
 ## ✅ Лабораторная работа 3
