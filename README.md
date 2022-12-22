@@ -95,4 +95,5 @@
 ## ✅ Экзаменационный билет №4
 
 Ответ на экзаменационный билет доступен по ссылке: [Билет №4](https://github.com/stankin/inet-2022/wiki/exam04)
+
 Ссылка на diff доступна по ссылке: [Diff](https://github.com/stankin/inet-2022/wiki/exam04/_compare/0a8fc58790dcf46d0261a526cc83ed10c24de45d...dd5de61013201465e5c643ef7c148535730cf5be)
